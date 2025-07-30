@@ -1,8 +1,8 @@
 import streamlit as st
 import plotly.graph_objects as go
 
-# Page config
-st.set_page_config(page_title="Fynstra – Financial Health Index", layout="centered")
+st.set_page_config(page_title="Fynstra", layout="wide")
+
 
 # Title and header
 st.title("⌧ Fynstra")
