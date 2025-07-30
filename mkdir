@@ -1,0 +1,5 @@
+mkdir utils
+mkdir pages
+
+echo "" > utils/__init__.py
+echo "" > pages/__init__.py
